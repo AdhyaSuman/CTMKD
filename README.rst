@@ -6,5 +6,3 @@ CTMKD
 
 .. _CombinedTM: https://aclanthology.org/2021.acl-short.96/
 .. _ZeroShotTM: https://aclanthology.org/2021.eacl-main.143/
-
-The implemention will be avilable soon.
