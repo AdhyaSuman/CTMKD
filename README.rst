@@ -17,11 +17,20 @@ We have used the datasets **20NewsGroup (20NG)** and **M10** from in OCTIS_.
 
 How to cite this work?
 ---------------------
-This work has been accepted at ECIR 2023! `Click to read the paper`_!
+This work has been accepted at ECIR 2023!
+
+Read the paper:
+
+1. `Springer`_
+
+2. `arXiv`_
 
 If you decide to use this resource, please cite:
 
-.. _`Click to read the paper`: https://link.springer.com/chapter/10.1007/978-3-031-28238-6_21
+.. _`Springer`: https://link.springer.com/chapter/10.1007/978-3-031-28238-6_21
+
+.. _`arXiv`: https://arxiv.org/abs/2303.15350
+
 
 ::
 
