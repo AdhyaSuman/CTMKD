@@ -45,8 +45,7 @@ If you decide to use this resource, please cite:
         address="Cham",
         pages="321--330",
         abstract="Topic modeling is a dominant method for exploring document collections on the web and in digital libraries. Recent approaches to topic modeling use pretrained contextualized language models and variational autoencoders. However, large neural topic models have a considerable memory footprint. In this paper, we propose a knowledge distillation framework to compress a contextualized topic model without loss in topic quality. In particular, the proposed distillation objective is to minimize the cross-entropy of the soft labels produced by the teacher and the student models, as well as to minimize the squared 2-Wasserstein distance between the latent distributions learned by the two models. Experiments on two publicly available datasets show that the student trained with knowledge distillation achieves topic coherence much higher than that of the original student model, and even surpasses the teacher while containing far fewer parameters than the teacher. The distilled model also outperforms several other competitive topic models on topic coherence.",
-        isbn="978-3-031-28238-6"
-  }
+        isbn="978-3-031-28238-6"}
   
 
 Acknowledgment
