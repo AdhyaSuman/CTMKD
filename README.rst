@@ -16,7 +16,8 @@ We have used the datasets **20NewsGroup (20NG)** and **M10** from in OCTIS_.
 
 
 How to cite this work?
----------------------
+----------------------
+
 This work has been accepted at ECIR 2023!
 
 Read the paper:
@@ -34,7 +35,7 @@ If you decide to use this resource, please cite:
 
 ::
 
-    @InProceedings{10.1007/978-3-031-28238-6_21, 
+    @InProceedings{adhya2023improving, 
         author="Adhya, Suman and Sanyal, Debarshi Kumar",
         editor="Kamps, Jaap and Goeuriot, Lorraine and Crestani, Fabio and Maistro, Maria and Joho, Hideo and Davis, Brian and Gurrin, Cathal and Kruschwitz, Udo and Caputo, Annalina",
         title="Improving Neural Topic Models with Wasserstein Knowledge Distillation",
